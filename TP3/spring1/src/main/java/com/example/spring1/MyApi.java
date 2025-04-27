@@ -4,7 +4,7 @@ import org.springframework.web.bind.annotation.*;
 import java.util.ArrayList;
 
 
-@RestController // Annotation pour dire que c'est un controller rest
+@RestController // Annotation pour dire que c'est un controller REST
 public class MyApi {
 
     public static ArrayList<Etudiant> listEtudiant = new ArrayList<>();
