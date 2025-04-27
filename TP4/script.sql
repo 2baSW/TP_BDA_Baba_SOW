@@ -86,7 +86,6 @@ CREATE TABLE emp (
     age NUMBER
 );
 
-*/
 
 SET SERVEROUTPUT ON;
 
@@ -105,3 +104,4 @@ BEGIN
 END;
 /
 
+*/
